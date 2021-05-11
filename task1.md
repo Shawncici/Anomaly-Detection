@@ -21,4 +21,4 @@
   ## 异常检测的方法
   异常检测目前主要有5大类检测方法：
   1.图形检测方法：主要是箱型图。
-
+   ![image]（https://github.com/Shawncici/Anomaly-Detection/blob/main/%E7%AE%B1%E5%BD%A2%E5%9B%BE.webp）
