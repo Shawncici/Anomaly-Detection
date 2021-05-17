@@ -14,7 +14,7 @@
 异常检测中主要包含三种异常：点异常（point anomalies）、上下文异常（contextual anomalies）以及集合异常（collective anomalies）。
 ## 点异常
 其中，O1和O2就属于点异常
-![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png)
+![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/905780D9-5B8E-4F78-ADB0-377B87A9EFEC.png)
 ## 上下文异常
 ![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png)
 其中t2处的异常属于上下文异常
