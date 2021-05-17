@@ -14,12 +14,13 @@
 异常检测中主要包含三种异常：点异常（point anomalies）、上下文异常（contextual anomalies）以及集合异常（collective anomalies）。
 ## 点异常
 其中，O1和O2就属于点异常
-[image:5213A377-7B64-436B-B91A-C595C1EAC80A-1613-000003B943EE552C/905780D9-5B8E-4F78-ADB0-377B87A9EFEC.png]
+![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png)
 ## 上下文异常
-[image:F325AD43-1B71-4B9B-88FE-4BD7101A6919-1613-000003C0FEEA377F/A11B2641-0B72-4964-A651-B962AABD7DE4.png]
+![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png)
 其中t2处的异常属于上下文异常
 ## 集合异常
-[image:87E7302C-A934-45C6-939A-6B1B67347B2C-1613-0000046C4DDF2172/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png]
+
+![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png)
 图中箭头所指的红框区域为集合异常。
 
 # 数据降维
