@@ -6,7 +6,8 @@
 2. 利用训练集得到线性回归模型的参数和选择是否判断为异常的阀值；
 3. 利用第二步得到的模型和阀值检测测试集
 
-https://github.com/Shawncici/Anomaly-Detection/blob/main/BB261DAD-E7F9-4DA7-9590-9B060B8C102B.png
+
+  ![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/BB261DAD-E7F9-4DA7-9590-9B060B8C102B.png)
 左侧是基于正常数据的拟合结果，右侧是基于含有异常数据的拟合结果，蓝色为拟合线，绿色是基于正常数据的拟合线。通过上图可以发现，因为异常点的存在，使得拟合线发生了偏移，使得“正常值显得有些不正常，异常值显得有点正常”。
 
 # 异常检测中的异常类型
