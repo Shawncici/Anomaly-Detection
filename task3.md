@@ -16,7 +16,7 @@
 其中，O1和O2就属于点异常
 ![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/905780D9-5B8E-4F78-ADB0-377B87A9EFEC.png)
 ## 上下文异常
-![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/147E88AD-D390-43D8-A0ED-2A879C9ED58A.png)
+![image](https://github.com/Shawncici/Anomaly-Detection/blob/main/A11B2641-0B72-4964-A651-B962AABD7DE4.png)
 其中t2处的异常属于上下文异常
 ## 集合异常
 
